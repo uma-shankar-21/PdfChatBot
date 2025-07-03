@@ -1,8 +1,9 @@
 streamlit
+pypdf
 python-docx
 python-pptx
 pandas
 sentence-transformers
 faiss-cpu
-PyPDF2
-faiss
+transformers
+torch
