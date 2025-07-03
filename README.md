@@ -62,16 +62,8 @@ View answers and source context
 
 🧩 Folder Structure
 text
-agentic_rag_chatbot/
-│
-├── agents/
-│   ├── ingestion_agent.py
-│   ├── retrieval_agent.py
-│   └── llm_response_agent.py
-│
-├── mcp.py
-├── vector_store.py
-├── app.py
-├── requirements.txt
-├── README.md
-└── architecture.pptx  # (or .pdf) - Architecture slides
+Main folder : agentic_rag_chatbot/
+a sub under main folder 
+agents(── ingestion_agent.py ── retrieval_agent.py ── llm_response_agent.py)
+below under agentic_rag_chatbot  folder
+(mcp.py── vector_store.py── app.py── requirements.txt)
